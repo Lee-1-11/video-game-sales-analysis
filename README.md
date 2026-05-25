@@ -13,4 +13,4 @@
 - 📉 Sales declined post-2008 due to shift to digital downloads
 
 ## Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](dashboard1.png)
